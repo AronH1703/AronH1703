@@ -6,7 +6,7 @@ I specialize in **Front End Development** and **UX/UI design**, focusing on buil
 
 ---
 ### 🌍 What I’m Currently Working On:
-- Building a **new portfolio website** to showcase my projects and skills.
+- Learning **React** 🕺.
 
 ### 🌱 What I’m Learning:
 - Advanced **JavaScript frameworks** (e.g., Vue.js, React).
